@@ -25,7 +25,18 @@ $(document).ready(function () {
     $("#16 .task").val(localStorage.getItem("16"))
     $("#17 .task").val(localStorage.getItem("17"))
 
-
+    //add color to blocks
+    var timeNow = new Date().getHours()
+    for (var i = 8; i < 18; i++) {
+        if (i < timeNow) {
+            document.getElementById(i.toString()).classList.add('past');
+        } else if (i === timeNow) {
+            document.getElementById(i.toString()).classList.add('present');
+        } else if (i > timeNow) {
+            document.getElementById(i.toString()).classList.add('future');
+        }
+    }
+  
     
 }
 )
