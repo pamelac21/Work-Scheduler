@@ -8,15 +8,10 @@ It will run in the browser and feature dynamically updated HTML and CSS powered 
 Built With: 
 
 -HTML 
-
 -CSS 
-
 -JavaScript
-
 -Bootstrap
-
 -jQuery
-
 -Font Awesome
 
 USAGE:
@@ -50,7 +45,7 @@ Prerequisites: To install this application, you will need a text editor. I recom
 
 [Deployed Site](https://pamelac21.github.io/Work-Scheduler/)
 
-[Clone the repo]()
+Clone the repo (https://github.com/pamelac21/Work-Scheduler.git)
 
 
 ![screencapture-file-C-Users-pamel-OneDrive-Desktop-PROJECTS-WorkDayScheduler-Develop-index-html-2021-09-04-12_10_56](https://user-images.githubusercontent.com/87335354/132101164-6442102d-7c00-44d3-8cee-b9b89a4fbe64.png)
