@@ -48,8 +48,7 @@ USAGE:
 
 Prerequisites: To install this application, you will need a text editor. I recommend Visual Studio Code.
 
-[Deployed Site](https://pamelac21.github.io/
-/)
+[Deployed Site](https://pamelac21.github.io/Work-Scheduler/)
 
 [Clone the repo]()
 
