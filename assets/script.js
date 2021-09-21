@@ -45,18 +45,13 @@ $(document).ready(function () {
 
 
 
-  /*          for(let i=0; i < localStorage.length; i++) {
-        
-                savedTasks = localStorage.getItem(tasks) 
-            
-                $('#' + time[i]).children('.task').text(savedTasks)
-
-    }
+  /*          for(let i=0; i < localStorage.length; i++) {     
+                savedTasks = localStorage.getItem(tasks)            
+                $('#' + time[i]).children('.task').text(savedTasks)}
 
         for(let i=0; i < localStorage.length; i++) {
         localStorage.getItem(time[i])
     let input = tasks[i].task
     $("#" + tasks[i].time).children(".task").text(input)
-    $('.task').append(localStorage.getItem('#' + tasks[i].time))
-    }
+    $('.task').append(localStorage.getItem('#' + tasks[i].time))}
     */
