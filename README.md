@@ -48,7 +48,7 @@ Prerequisites: To install this application, you will need a text editor. I recom
 Clone the repo (https://github.com/pamelac21/Work-Scheduler.git)
 
 
-![screencapture-file-C-Users-pamel-OneDrive-Desktop-PROJECTS-WorkDayScheduler-Develop-index-html-2021-09-04-12_10_56](https://user-images.githubusercontent.com/87335354/132101164-6442102d-7c00-44d3-8cee-b9b89a4fbe64.png)
+![screencapture-file-C-Users-pamel-OneDrive-Desktop-PROJECTS-1Schedule-index-html-2021-09-21-14_15_20](https://user-images.githubusercontent.com/87335354/134241104-8b5d44ba-f2dc-4148-a7cd-1ee848fcc0e6.png)
 
 
 Contact:
