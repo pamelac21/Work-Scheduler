@@ -2,7 +2,7 @@
 
 ## ABOUT
 
-Given some starter code to work with, I wanted to add to it to create a simple calendar application that allows a user to save events for each hour of the day.
+A simple calendar application that allows a user to save events for each hour of the day.
 It will run in the browser and feature dynamically updated HTML and CSS powered by jQuery, along with Bootstrap, Moment.js, Font Awesome, and Google Fonts.
 
 ## Table of Contents
