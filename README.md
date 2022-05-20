@@ -5,7 +5,7 @@
 Given some starter code to work with, I wanted to add to it to create a simple calendar application that allows a user to save events for each hour of the day.
 It will run in the browser and feature dynamically updated HTML and CSS powered by jQuery, along with Bootstrap, Moment.js, Font Awesome, and Google Fonts.
 
-## Built With: 
+## Built With 
 
 -HTML 
 -CSS 
@@ -14,7 +14,7 @@ It will run in the browser and feature dynamically updated HTML and CSS powered 
 -jQuery
 -Font Awesome
 
-## USAGE:
+## USAGE
 
 -WHEN I open the planner 
 
@@ -54,7 +54,7 @@ Clone the repo (https://github.com/pamelac21/Work-Scheduler.git)
 ![screencapture-file-C-Users-pamel-OneDrive-Desktop-PROJECTS-1Schedule-index-html-2021-09-21-14_15_20](https://user-images.githubusercontent.com/87335354/134241104-8b5d44ba-f2dc-4148-a7cd-1ee848fcc0e6.png)
 
 
-Contact:
+Contact
 
 pamelac021@gmail.com
 
